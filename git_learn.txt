@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software.
-今天把git学会了 明天直接克隆项目
-加油
+不能直接下载zip，代码可能会出现格式错误
